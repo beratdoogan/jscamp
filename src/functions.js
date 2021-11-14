@@ -3,4 +3,4 @@ function addToCart(productName){
 }
 addToCart("@ProjectV2"); 
 
-console.log("ds");
+console.log("ds"); 
