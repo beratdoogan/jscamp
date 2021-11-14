@@ -1,4 +1,6 @@
 function addToCart(productName){
-    console.log("Sepete eklendi : " + productName);
+    console.log("natron test : " + productName)
 }
-addToCart("Elma")
+addToCart("@ProjectV2"); 
+
+console.log("ds");
